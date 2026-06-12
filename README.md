@@ -6,6 +6,8 @@ This page is aimed to provide educators with practical GenAI skills that can be 
 
 ![](./images/sunny-ng.png)
 
+<img src="./images/sunny-ng.png" alt="Sunny Ng" width="150" id="profile-image"/>
+
 [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)  
 **Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
 **Part-time Lecturer** at HKU Business School, HKU School of Chinese, HKUSPACE, EdUHK  
