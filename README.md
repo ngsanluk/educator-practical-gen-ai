@@ -1,5 +1,7 @@
 # Practical GenAI Skills for Educators
 
+![](./images/banner.jpg)
+
 This page is aimed to provide educators with practical GenAI skills that can be applied in their teaching and learning activities. It covers a range of topics, including useful keyboard shortcuts, popular GenAI tools, effective prompting techniques, and managing prompts and AI responses. By mastering these skills, educators can enhance their teaching methods and provide a more engaging learning experience for their students.
 
 # Hello! My name is Sunny 🌞
