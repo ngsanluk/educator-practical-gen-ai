@@ -391,7 +391,7 @@ Create a flash card app to help school kid learn the tense of English words in t
 
 Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
 
-[Verb Tense Flash Card](https://gemini.google.com/share/41c1f6655195)
+[Verb Tense Flash Card](https://gemini.google.com/share/41c1f6655195)  
 ![](./images/verb-tense-flashcard.png)
 
 ---
@@ -413,7 +413,7 @@ Create a playground for student to explore Pythagorean theorem
 
 Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
 
-[Playground for Pythagorean Theorem](https://gemini.google.com/share/a458c0cbdb1d)
+[Playground for Pythagorean Theorem](https://gemini.google.com/share/a458c0cbdb1d).
 ![](./images/pythagoras-playground.png)
 
 ---
