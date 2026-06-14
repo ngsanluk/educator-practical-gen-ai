@@ -207,6 +207,60 @@ Tone        →
 
 ---
 
+# Some Handy Prompts for Teaching Materials Generation
+
+```
+generate 10 slides to introduce cloud computing to non-tech students
+```
+
+```
+generate 5 short bullet points to introduce cloud computing to non-tech students
+```
+
+```
+list 4 advantages of cloud computing
+```
+
+```
+rewrite it for absolute beginner
+```
+
+```
+convert to chinese
+```
+
+```
+convert to traditional chinese
+```
+
+```
+generate 5 multiple choice questions with four options about cloud computing fundamental. specify the correct answer at the end of each question.
+```
+
+```
+generate 5 true or false questions about cloud computing fundamental. specify the correct answer at the end of each question.
+```
+
+```
+generate 5 fill in the blank questions about cloud computing fundamental. specify the correct answer at the end of each question.
+```
+
+```
+create a case study for non-IT students to discuss the pros and cons of cloud computing. provide some angles for students to start argueing
+```
+
+```
+5題關於python編程的選擇題，目標為入門班學生，每題4個選項，將正確答案置於最後
+```
+
+```
+5題關於python looping的選擇題，目標為入門班學生，每題4個選項，將正確答案置於最後
+```
+
+```
+generate 5 fill in the blank questions about present continue tense for secondary form one students. each question 4 options. specify the answer at the end of each question.
+```
+
 # Managing Prompts and AI Responses
 
 To effectively manage your prompts and the AI's responses, it's important to keep a record of your interactions. This can help you track the effectiveness of different prompts and refine your approach over time. You can use tools like **Notion** (or **Microsoft Loop**, or **Mem**) to document the AI's responses, and any notes on what worked well or what could be improved. This practice will enable you to build a library of effective prompts that you can refer back to in the future.
@@ -245,15 +299,60 @@ To practice using Canva AI for PowerPoint generation, we will feed contents that
 
 When you instruct Gemini to generate images, Nano Banana will be activated to create images based on your prompts. You can specify the style, content, and other parameters to get the desired images for your teaching materials or presentations.
 
-**Text to Image**
+## Text to Image
 
 You can simply describe the image you want to generate in your prompt, and Gemini will create an image based on your description. For example, you can ask Gemini to generate an image of a `sunny beach with palm trees and clear blue water` or `a futuristic city skyline at night`. The more detailed your description, the better the generated image will match your expectations.
 
-**Image-to-Image Editing**
+---
+
+```
+generate a chinese ink paiting of ancient chinese city. show busy market full of shops and people.
+```
+
+![](./images/chinese-city-ink.png)
+
+---
+
+```
+generate a chinese ink paiting of ancient chinese city next to a river. show busy market full of shops and people.
+```
+
+![](./images/chinese-city-next-to-river.png)
+
+---
+
+To write effective prompts for images generation, consider the following elements:
+
+- Subject
+- Background/Scene
+- Adjective
+- Style
+- Lighting
+
+| Element                                                                      |                       | Prompt                                                                                                                                                              |
+| ---------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Subject** <br>**Background**<br>**Adjective**<br>**Style**<br>**Lighting** | →<br>→<br>→<br>→<br>→ | Generate a picture of a cat <br> sitting on a sofa. Behind is a window with curtain. <br>The cat is white. <br>Make the style realistic. <br>Use dramatic lighting. |
+
+![](./images/cat-good-prompt.jpg)
+
+## Image-to-Image Editing
 
 You can feed image and ask Gemini to edit the image(s) based on your instructions. For example, you can ask Gemini to change the background of an image, add or remove certain elements, or apply specific filters to enhance the visual appeal of the image.
 
-**Image as Style Reference**
+```
+Turn this photo into a character figure.
+Behind it, place a figure box with the character image printed on it,
+and a computer showing the Blender modeling process on its screen.
+In front of the box, add a round plastic base with the figure placed on it.
+Use the figure's vinyl material.
+Set the scene in home studio
+```
+
+![](./images/bruce-lee.jpeg)
+
+![](./images/gemini-bruce-lee-figure.png)
+
+## Image as Style Reference
 
 You can also feed image as style reference and instruct Gemini to use it as target style to edit your own image in the same style.
 
@@ -359,3 +458,13 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 [Bubble Sort Simulation](https://gemini.google.com/share/823e6da5ae2f)
 
 ---
+
+# Photo / Video / Icon Libraries
+
+Images/Video generation tools are slow and expensive. Sometimes, it is more efficient to use free stock photo/video/icon libraries.
+
+- [Unsplash](https://unsplash.com) - Free high-quality photos.
+- [Pexels](https://www.pexels.com) - Free stock photos and videos.
+- [Freepik](https://www.freepik.com) - Free vectors, stock photos, PSD, and icons.
+- [Icons8](https://icons8.com) - Free icons and images.
+- [Flaticon](https://www.flaticon.com) - Free icons in various formats.
