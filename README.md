@@ -261,6 +261,18 @@ create a case study for non-IT students to discuss the pros and cons of cloud co
 generate 5 fill in the blank questions about present continue tense for secondary form one students. each question 4 options. specify the answer at the end of each question.
 ```
 
+```
+將以下內容變成廣東話口語
+```
+
+```
+詳細解釋以下每句詩句
+清明時節雨紛紛，
+路上行人欲斷魂。
+借問酒家何處有，
+牧童遙指杏花村。
+```
+
 # Managing Prompts and AI Responses
 
 To effectively manage your prompts and the AI's responses, it's important to keep a record of your interactions. This can help you track the effectiveness of different prompts and refine your approach over time. You can use tools like **Notion** (or **Microsoft Loop**, or **Mem**) to document the AI's responses, and any notes on what worked well or what could be improved. This practice will enable you to build a library of effective prompts that you can refer back to in the future.
@@ -391,7 +403,8 @@ Create a flash card app to help school kid learn the tense of English words in t
 
 Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
 
-[Verb Tense Flash Card](https://gemini.google.com/share/41c1f6655195)  
+[Verb Tense Flash Card](https://gemini.google.com/share/41c1f6655195)
+
 ![](./images/verb-tense-flashcard.png)
 
 ---
@@ -402,7 +415,8 @@ Generate a interactive revision app for my kid to do revision and prepare for ex
 
 Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas. I uploaded PDF file to serve as custom knowledge base for Gemini to generate the interactive revision app.
 
-[Interactive Content for Revision](https://gemini.google.com/share/b28f691178e1)  
+[Interactive Content for Revision](https://gemini.google.com/share/b28f691178e1)
+
 ![](./images/interactive-revision-app.png)
 
 ---
@@ -414,6 +428,7 @@ Create a playground for student to explore Pythagorean theorem
 Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
 
 [Playground for Pythagorean Theorem](https://gemini.google.com/share/a458c0cbdb1d).
+
 ![](./images/pythagoras-playground.png)
 
 ---
