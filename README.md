@@ -74,11 +74,11 @@ There are other prompting frameworks such as **ICIO** (Instruction, Context, Inp
 
 **Beginner Pitfall**: AI beiginner users tend to use simple Instruction-only prompts, which often lead to vague and irrelevant responses. By adding more prompt components such as Role, Context, Example, Format, Action, Constraint, and Tone, you can significantly improve the quality of the AI's responses.
 
-![RICE FACT](./images/rice-fact.png)
+![RICE FACT](./images/rice-fact.jpg)
 
 **Tips 1**: You can just click the copy button to replicate the prompt in your AI ssistant. It's OKAY to include the RICE FACT tags in your prompt.  
 **Tips 2**: In your furture prompting, You DON'T actually have to specifically add these tags in your prompts. They are just there to help you better understand the prompt structure.  
-**Tips 3**: It's NOT common to include all RICE FACT components in a single prompt.
+**Tips 3**: It's NOT common to include all RICE FACT components in a single prompt.  
 **Tips 4**: In some articles, A is referred as Action while some other articles refer to it as Audience. You can choose either one depending on the context of your prompt.
 
 **Instrustion** only
