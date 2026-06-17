@@ -72,12 +72,12 @@ RICE FACT is a useful framework to help you structure your prompts effectively w
 
 There are other prompting frameworks such as **ICIO** (Instruction, Context, Input, Output), **SCQA** (Situation, Complication, Question, Answer) and **STAR** (Situation, Task, Action, Result), they all have their own advantages and disadvantages. RICE FACT is more comprehensive and flexible, allowing you to include various elements in your prompts to achieve better results.
 
-**Beginner Pitfall**: AI beiginner users tend to use simple **Instruction-only** prompts, which often lead to vague and irrelevant responses. By adding more prompt components such as Role, Context, Example, Format, Action, Constraint, and Tone, you can significantly improve the quality of the AI's responses.
+**Beginner Pitfall**: AI beginner users tend to use simple **Instruction-only** prompts, which often lead to vague and irrelevant responses. By adding more prompt components such as Role, Context, Example, Format, Action, Constraint, and Tone, you can significantly improve the quality of the AI's responses.
 
 ![RICE FACT](./images/rice-fact.jpg)
 
 **Tips 1**: You can just click the copy button to replicate the prompt in your AI ssistant. It's OKAY to include the RICE FACT tags in your prompt.  
-**Tips 2**: In your furture prompting, You DON'T actually have to specifically add these tags in your prompts. They are just there to help you better understand the prompt structure.  
+**Tips 2**: In your future prompting, You DON'T actually have to specifically add these tags in your prompts. They are just there to help you better understand the prompt structure.  
 **Tips 3**: It's NOT common to include all RICE FACT components in a single prompt.  
 **Tips 4**: In some articles, A is referred as Action while some other articles refer to it as Audience. You can choose either one depending on the context of your prompt.
 
@@ -246,7 +246,7 @@ generate 5 fill in the blank questions about cloud computing fundamental. specif
 ```
 
 ```
-create a case study for non-IT students to discuss the pros and cons of cloud computing. provide some angles for students to start argueing
+create a case study for non-IT students to discuss the pros and cons of cloud computing. provide some angles for students to start arguing
 ```
 
 ```
@@ -296,14 +296,14 @@ It supports rich **block types**, such as text, headings, bullet points, tables,
 - Adding Google Map
 - Cross-devices features
 
-# Power Point Generation using Canva AI
+# PowerPoint Generation using Canva AI
 
 ![](https://content-management-files.canva.com/894e680a-6714-47e7-a22f-d9bfc09ebad6/canva-AI_hero2x.png)
 
 Canva is a graphic design platform that offers AI-powered tools to help you create visually appealing presentations. With Canva's AI features, you can generate PowerPoint slides quickly and easily by providing simple prompts. This can be especially useful for educators who want to create engaging presentations without spending too much time on design.
 
 **Exercise**:  
-To practice using Canva AI for PowerPoint generation, we will feed contents that we previous gererated using GenAI tools such as Gemini or Perplexity into Canva AI to create visually appealing slides.
+To practice using Canva AI for PowerPoint generation, we will feed contents that we previous generated using GenAI tools such as Gemini or Perplexity into Canva AI to create visually appealing slides.
 
 # Image Generation using Gemini (Nano Banana)
 
@@ -318,7 +318,7 @@ You can simply describe the image you want to generate in your prompt, and Gemin
 ---
 
 ```
-generate a chinese ink paiting of ancient chinese city. show busy market full of shops and people.
+generate a chinese ink painting of ancient chinese city. show busy market full of shops and people.
 ```
 
 ![](./images/chinese-city-ink.png)
