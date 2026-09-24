@@ -2,7 +2,7 @@
 
 ![](./images/banner.jpg)
 
-This page is aimed to provide educators with practical GenAI skills that can be applied in their teaching activities. It covers a range of topics, including useful keyboard shortcuts, popular GenAI tools, effective prompting techniques, and managing prompts and AI responses. By mastering these skills, educators can enhance their teaching methods and provide a more engaging learning experience for their students.
+This page is aimed to provide educators with practical GenAI skills that can be applied in their teaching activities. It covers a range of topics, including useful keyboard shortcuts, popular GenAI tools, effective prompting techniques, and managing prompts and AI responses, building custome chatbot and creating agents. By mastering these skills, educators can enhance their teaching methods and provide a more engaging learning experience for their students.
 
 # Hello! My name is Sunny 🌞
 
@@ -11,7 +11,7 @@ This page is aimed to provide educators with practical GenAI skills that can be 
 [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)  
 **Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
 **Part-time Lecturer** at HKU Business School, HKU School of Chinese, HKUSPACE, EdUHK  
-**Email**: sunny.ng@imagenation.com.hk or sunnyng@eduhk.hk
+**Email**: sunny.ng@imagenation.com.hk
 
 # Useful Keyboard Shortcuts
 
@@ -33,13 +33,13 @@ It is more effective to keep multiple browser tabs open for different tools.
 To open the following AI tools in a **NEW** browser tab, hold `CTRL` (`CMD` on Mac) when clicking the links below.
 
 - [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, canvas (apps),audio, and video.
-- [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assisant.
-- [Grok](https://grok.com) - AI tool for generating text and code.
-- [Poe](https://poe.com) - Platform to access multiple AI models in one place.
 - [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks
 - [Doubao](https://www.doubao.com) - Conversational AI for various tasks
 - [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks (**NOT** a multi-modal tool)
+- [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
+- [Grok](https://grok.com) - AI tool for generating text and code.
+- [Poe](https://poe.com) - Platform to access multiple AI models in one place.
 - [VisualGPT](https://visualgpt.io) - Photo Editor with AI / Image Generation
 - [LMArena](https://lmarena.ai) - Compare and explore different large language models.
 - [Notion AI](https://www.notion.com) - Note-taking and productivity app with AI features.
@@ -60,10 +60,16 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (`CMD` on M
 - [Tripoai](https://studio.tripo3d.ai) - AI-powered 3D content creation platform.
 - [ideogram](https://ideogram.ai/) - AI-powered image generation platform.
 
+# World Top GenAI Tools
+
+[World Top GenAI Tools](https://a16z.com/100-gen-ai-apps-6/)
+![](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/03/Top-Gen-AI-Web-Top-50-List-v2.png)
+![](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/03/Top-Gen-AI-Apps-Top-50-List.jpg)
+
 # Other Tech Tools for Teaching & Learning
 
 - [Google Sites](https://sites.google.com/) - Free website builder by Google, great for creating a class website or portfolio.
-- [DILLINGER](https://dillinger.io/) - Online Markdown playground/editor.
+- [Markdown Playground](https://training.imagenation.com.hk/markdown/index.html) - Online Markdown playground/editor.
 - [Pandoc](https://pandoc.org/index.html) - Universal document converter that can convert between various formats, including Markdown, HTML, PDF, and more.
 
 # Mastering RICE FACT Effective Prompting
@@ -246,7 +252,11 @@ generate 5 fill in the blank questions about cloud computing fundamental. specif
 ```
 
 ```
-create a case study for non-IT students to discuss the pros and cons of cloud computing. provide some angles for students to start arguing
+Create a Word document so that I can download and further edit.
+```
+
+```
+create a case study for non-IT students to discuss the pros and cons of cloud computing. provide some angles for students to start the discussion.
 ```
 
 ```
@@ -368,6 +378,24 @@ Set the scene in home studio
 
 You can also feed image as style reference and instruct Gemini to use it as target style to edit your own image in the same style.
 
+# Turn Texts into Visuals
+
+![](https://www.napkin.ai/assets/og-image-v5.png?v=2)
+
+[Napkin AI](https://napkin.ai/) is a powerful tool that allows you to turn your text-based ideas into compelling visual stories. It provides a user-friendly interface where you can input your text and generate visuals that enhance your storytelling. Whether you're creating a presentation, a report, or any other type of content, Napkin AI can help you make it more engaging and visually appealing.
+
+1.  Paste the following prompt to any AI assistant to seek for an answer on secondary math teacher assessment cycle.
+
+    ```
+    Use bullet points format to show the secondary mathematics assessment cycle for teacher.
+    ```
+
+2.  Copy the AI response and paste it to Napkin AI. You can then choose the most suitable visual template to turn the text into visuals.
+3.  You can further customize the visuals by changing the colors, fonts, and layout to better suit your needs.
+4.  Once you're satisfied with the visuals, you can download them and use them in your presentations, reports, or any other materials to enhance your communication and engagement with your audience.
+
+![](./images/napkin-demo.png)
+
 # Speech Synthesis
 
 ![](https://www.narakeet.com/assets/howto/20230403-tts-announcements-poster-x304.png)
@@ -393,7 +421,7 @@ Gemini's canvas feature allows you to create interactive content such as quizzes
 
 **Vibe Coding**
 
-Canvas output form are actually self-contained mini web applications, which means you can easily share them with your students by providing a link. This makes it convenient for remote learning or for students to access the content on their own devices. If you can handle programming, you can even customize the canvas output further to suit your specific teaching needs. Of course vibe coding is mature enough and will offer you more flexibility and possibilities to create more advanced interactive content.
+Canvas output format is actually self-contained mini web applications, which means you can easily share them with your students by providing a link. This makes it convenient for remote learning or for students to access the content on their own devices. If you can handle programming, you can even customize the canvas output further to suit your specific teaching needs. Of course vibe coding is mature enough and will offer you more flexibility and possibilities to create more advanced interactive content.
 
 ---
 
@@ -474,12 +502,44 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 
 ---
 
+# Custom Chatbot
+
+Gemini Gems is a platform that allows you to create custom AI assistants tailored to your specific needs. With Gemini Gems, you can design and build your own AI assistant by defining its capabilities, personality, and interactions. This tool is particularly useful for educators, businesses, and individuals who want to create a personalized AI assistant that can help with tasks such as answering questions, providing recommendations, or assisting with specific workflows.
+
+![](https://images.ctfassets.net/lzny33ho1g45/2yvPXm6SrVRaCUby42XATS/16423809586ee068944c34623d7f78fe/gemini-gems-image01.png)
+
+# AI Agents & Agentic AI
+
+AI agents are autonomous software programs that can perform tasks or make decisions on behalf of users. They are designed to interact with their environment, gather information, and take actions based on predefined rules or learned behaviors. AI agents can be used in various applications, such as virtual assistants, customer service bots, and recommendation systems.
+
+Agentic AI refers to multiple AI agents that are designed to interact with their environment, learn from it, and adapt their behavior based on the information they receive. Agentic AI operates independently and makes informed decisions without constant human intervention.
+
+## Gemini Spark
+
+**Gemini Spark** is a platform that allows you to create and manage AI agents. With Gemini Spark, you can design agents that can perform specific tasks, interact with users, and learn from their experiences. This tool is particularly useful for businesses and developers who want to build intelligent systems that can automate processes, provide personalized experiences, or assist with complex decision-making.
+
+![](https://lh3.googleusercontent.com/zdeJtOTXpnfHHqrTU5gmS3z2gfF87KouBdsjTdCK3mLPkI6JkPBIKk9kcKuiGv_5KjG8dCeQzYMw029rVLZDUUSu_7kQoPLU9Yw=e365-pa-nu-s0)
+
+## Gemini Notebook
+
+Gemini Notebook is a feature that allows you to create and manage your own custom knowledge base for your chatbot or agent. You can upload documents, PDFs, or other resources that contain relevant information, and the chatbot will be able to access this knowledge when interacting with students.
+![](https://lh3.googleusercontent.com/vosTePSCiNmy81qVHV-vTm39Heoqcgwy7Q0DR56g4iG9JLv3dfiUdiWvAWLOApxoi8nsM5z3Pq5FB-nHJuZ0D8W7NjdnHOQyYAJfwQ=e365-pa-nu-rw-w528)
+
+# Interacting with Gemini Google Workspace Extensions
+
+Google Workspace Extensions are AI-powered tools that integrate with Google Workspace applications like Gmail, Docs, Sheets, and Slides to enhance productivity and streamline workflows.
+
+When you type the `@` symbol in the Gemini chat box, it brings up a quick-menu of available extensions.
+This allows you to pull real-time information directly from your other Google apps into your conversation.
+
+![](./images/gemini-google-workspace-exts.png)
+
 # Photo / Video / Icon Libraries
 
 Images/Video generation tools are slow and expensive. Sometimes, it is more efficient to use free stock photo/video/icon libraries.
 
 - [Unsplash](https://unsplash.com) - Free high-quality photos.
 - [Pexels](https://www.pexels.com) - Free stock photos and videos.
-- [Freepik](https://www.freepik.com) - Free vectors, stock photos, PSD, and icons.
+- [Magnific](https://www.magnific.com/app) - Free vectors, stock photos, PSD, and icons.
 - [Icons8](https://icons8.com) - Free icons and images.
 - [Flaticon](https://www.flaticon.com) - Free icons in various formats.
