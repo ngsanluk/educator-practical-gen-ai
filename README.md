@@ -328,18 +328,38 @@ You can simply describe the image you want to generate in your prompt, and Gemin
 ---
 
 ```
-generate a chinese ink painting of ancient chinese city. show busy market full of shops and people.
-```
-
-![](./images/chinese-city-ink.png)
-
----
-
-```
 generate a chinese ink paiting of ancient chinese city next to a river. show busy market full of shops and people.
 ```
 
 ![](./images/chinese-city-next-to-river.png)
+
+---
+
+```
+A flat vector style educational illustration showing a lighthouse on a cliff and a small sailboat out at sea. A subtle, dashed golden line represents the line of sight from the lighthouse down to the boat, forming a clear angle of depression. Clean, simple shapes, daytime, bright colors, perfect for a secondary school math worksheet diagram.
+```
+
+![](./images/lighthouse-on-cliff.jpg)
+
+---
+
+```
+Generate a macro, close-up photograph of dynamic redox reaction in action inside a large, clear glass crystallization dish. The scene is a demonstration of the 'displacement' reaction. A piece of polished zinc metal is partially submerged in a deep blue solution of copper(II) sulfate. Where the metal touches the liquid, a vigorous reaction is occurring: dark brown, dendritic crystals of copper metal are rapidly growing and displacing the zinc. Small bubbles (gas evolution) are visible, and the overall solution surrounding the metal is visibly fading from blue to colorless. Lighting is bright, medical/laboratory style.
+```
+
+![](./images/redox.jpg)
+
+**Teaching Purpose**: This high-fidelity visualization allows students to observe dynamic molecular changes that are difficult to capture perfectly in a school lab (e.g., the speed and structure of crystal growth). It serves as a visual reference to help students write the correct ionic and chemical equations for the displacement of metal ions.
+
+---
+
+```
+Generate a highly magnified, 3D scanning electron micrograph (SEM) visualization of the process of endocytosis. It shows a cross-section of a living, healthy animal cell. The focus is a single, large extracellular nutrient particle, represented as a complex, glowing cluster of smaller proteins and lipids. The cell membrane is vividly shown curving inwards, forming a deep pocket around the particle. Clearly depict the 'coated vesicle' structure (e.g., clathrin proteins visible as an internal scaffolding) as the membrane pinches off, sealing the particle inside the cytoplasm. Use false colors: blue for the membrane, yellow/orange for the particle, and green for internal structures.
+```
+
+![](./images/bio.jpg)
+
+**Teaching Purpose**: General Science introduces cell transport, which Biology then analyzes in detail. This SEM style is an powerful replacement for simplistic textbook drawings. It helps students 'see' the dynamic, physical process of vesicle formation and the different layers/proteins involved in moving a large substance into the cell.
 
 ---
 
